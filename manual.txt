@@ -1,0 +1,3 @@
+voce precisa ter o expo cli instalado globalmente npm install -g expo-cli
+criar projeto expo init nomeProjeto
+escolha opcao BAREL WORKFLOW -- minimal
