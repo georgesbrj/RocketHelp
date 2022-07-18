@@ -1,8 +1,11 @@
-import {SigIn} from './src/screens/Signin';
+import { NativeBaseProvider} from 'native-base';
+import {SignIn} from './src/screens/SignIn';
 
 export default function App() {
   return (
-      <SigIn />
+    <NativeBaseProvider>
+      <SignIn />
+    </NativeBaseProvider>
   );
 }
 

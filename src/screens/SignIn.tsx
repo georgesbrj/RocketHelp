@@ -1,6 +1,6 @@
 import { View,Text} from 'react-native';
 
- export function SigIn(){
+ export function SignIn(){
   return (
    <View>
       <Text>Ola,George</Text>
