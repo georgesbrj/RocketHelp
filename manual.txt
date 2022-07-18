@@ -1,3 +1,10 @@
 voce precisa ter o expo cli instalado globalmente npm install -g expo-cli
 criar projeto expo init nomeProjeto
 escolha opcao BAREL WORKFLOW -- minimal
+altere o arquivo app.js para app.tsx 
+criar um arquivo tsconfig.json em branco 
+de o comando expo start .. apos digite yes
+apos dentro do terminal de o comando shift + d para habilitar o mono debug
+tecle d 
+crie uma pastar src na raiz do projeto dentro dessa pasta crie uma pasta chamada screens
+dentro da pasta screen crie o arquivo Sigin.tsx
